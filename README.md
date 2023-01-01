@@ -1,2 +1,2 @@
 # C
-Trabalhos e listas em C
+Listas e trabalhos
